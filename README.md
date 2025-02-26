@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Student</h2>
 
-<h2>👨‍💻 Red Team Volunteer</h2>
+<h2>🔴 Red Team Volunteer</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
